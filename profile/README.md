@@ -4,7 +4,7 @@
 
 > all solutions extends the standard web api or builded on top web api and providing you a easier way to use web api standards like web components.
 
-ork smarter with dom element. 
+Work smarter with dom element. 
 
 Build complex forms only by writing html and fully declarative. With multible pages, visibility condtion on every element, validation, dynamic messages, field listen of any complexity and many more. Use standard html input field inclusive files or build vour own custom field on any complexity you want.
 
